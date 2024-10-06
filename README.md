@@ -1,10 +1,14 @@
-# Overview
-This project was built as part of my learning journey to deepen my understanding of JavaScript, focusing on key concepts such as functions, DOM manipulation, and incorporating sounds into a web page using JavaScript. The project demonstrates how to build interactive elements on a website that respond to user actions by playing sounds and updating the DOM dynamically.
+# Drum Kit
+Welcome to the Drum Kit Project! This project was created to enhance my understanding of JavaScript functions, DOM manipulation, and sound integration on a website.
+## Overview
+The Drum Kit is an interactive web application that allows users to generate different drum sounds by clicking buttons or pressing corresponding keyboard keys. It was built as part of my learning journey to deepen my understanding of JavaScript, focusing on key concepts such as functions, DOM manipulation, and incorporating sounds into a web page using JavaScript.
 
 ## Features
 * JavaScript Functions: Utilized to handle various tasks like event listeners, sound playing, and DOM updates.
 * DOM Manipulation: Interacted with HTML elements, modifying content and styles dynamically based on user inputs and events.
 * Sound Integration: Added sound effects that are triggered by user actions like button clicks or keyboard presses.
+* Clickable drum buttons that produce different sounds
+* Keyboard support for each drum sound
 ## Technologies Used
 * HTML: For structuring the web page.
 * CSS: For styling and making the UI visually appealing.
